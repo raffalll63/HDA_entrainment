@@ -18,12 +18,19 @@
 * **Localisation:** Metropolitan Museum of Art, New York
 
 ## II. Description
-  La scene se passe dans une prison a en jugé par les Soupiraux à barreaux est les chaines.
+  La scene se passe dans une prison a en jugé par les Soupiraux à barreaux et les chaines.
   Au centre, il y a un coupe notre regard est porté vers elle grâce aux effets de lumière et parcequ'elle occupe 
   une position centrale dans l'oeuvre.
-  Ces effets de lumière porte egalement notre regard vers socrate, representer d'un drapé blanc, le bras lever et sûr lui.
-  Puis, il nous porte sur l'esclave qui donne la coupe de ciguë à socrate.
-  
+  Ces effets de lumière porte egalement notre regard vers socrate, representer d'un drapé blanc et le bras lever.
+  Puis, il nous porte sur l'esclave qui donne la coupe de ciguë à Socrate.
+  autour de Socrate ses disciples sont abattu par la mort tragique de Socrate.
+  En arrier plan on peux voir la femme de Socrate partir.
+  A gauche du lit sur le quel repause Socrate un homme assi est dos a Socrate. Au pied de cet homme traine un parchemin et un encrier.
+  On peut en déduire que c'est platon le plus célèbre disciple de Socrate, qui à retranscrit les paroles de Socrate.
 
+
+### Eléments importants
+  * Socrate est mis en valeur par sa position centrale et par l'éclairage
+  * Il s'apprête a boire la coupe de ciguë que lui tend l'esclave
 
 ## III. Interprétation
