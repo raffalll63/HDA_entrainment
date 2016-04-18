@@ -44,3 +44,10 @@
   * Il s'apprête a boire la coupe de ciguë que lui tend l'esclave
 
 ## IV. Interprétation
+  L'esclave qui donne la coupe à Socrate est honteux, il ne veut pas voir ce qu'il est en train de faire.
+  Socrate a le bras levé, c'est une forme d'insolence envers les Athéniens pour montrer que même après sa condamnation
+  Il continue.
+  Il a encore le courage de transmètre sa sagesse. Son attidute, son regard contraste avec  celle de ses disciples éffondrés.
+  Son vieil âge n'est pas représenté comme un défaut, mais comme un qualité, il montre sa sagesse.
+  Platon est représenté de dos, car il était absent lors de l'événement, il était trop affligé par cette tragédie.
+  Le blanc symbolise la pureté : il n’est donc pas étonnant que ce soit la couleur du vêtement de Socrate.
