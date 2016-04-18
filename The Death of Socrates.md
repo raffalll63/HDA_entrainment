@@ -4,8 +4,9 @@
 
 ## Sommaire
 * [I. Présentation générale](I.-Présentation-générale)
-* [II. Description](II.-Description)
-* [III. Interprétation](III. Interprétation)
+* [II. la vie de Socrates](II. la vie de Socrates)
+* [III. Description](II.-Description)
+* [IV. Interprétation](III. Interprétation)
 
 ## I. Présentation générale
 
@@ -17,7 +18,18 @@
 * **Mouvement:** Néo-classicisme
 * **Localisation:** Metropolitan Museum of Art, New York
 
-## II. Description
+## II. la vie de Socrates
+  Socrate est l'un des premier philosophe et surment le plus connu.
+  Il était en réaliter professeur philosophie et traverser Athène à poser des questions pour faire réfléchir son interlocuteur.
+  Il était durant toutes ces dicutions entourer de ces élève appelé ici disciple.
+  Socrate était marier, a une femme de fort caractère qui ne comprenait pas la philosophie de son marie.
+  Socrate était sans doute de fort caractère car lors de arrestation, on lui a demander soit d'être comdaner a la peine de mort,
+  soit d'arreter de poser se question philosophique aux athéniens.
+  Socrate a refusé, par un discour, et a été comdané à boire la ciguë, un fort poison.
+  Il a continué de philosophé jusqu'a son lit de mort.
+  Platon est un disciple de Socrate est a retranscrit les paroles de son maître.
+
+## III. Description
   La scene se passe dans une prison a en jugé par les Soupiraux à barreaux et les chaines.
   Au centre, il y a un coupe notre regard est porté vers elle grâce aux effets de lumière et parcequ'elle occupe 
   une position centrale dans l'oeuvre.
@@ -33,4 +45,4 @@
   * Socrate est mis en valeur par sa position centrale et par l'éclairage
   * Il s'apprête a boire la coupe de ciguë que lui tend l'esclave
 
-## III. Interprétation
+## IV. Interprétation
