@@ -4,7 +4,7 @@
 
 ## Sommaire
 * [I. Présentation générale](I.-Présentation-générale)
-* [II. la vie de Socrates](II. la vie de Socrates)
+* [II. la vie de Socrate](II. la vie de Socrate)
 * [III. Description](II.-Description)
 * [IV. Interprétation](III. Interprétation)
 
@@ -18,29 +18,27 @@
 * **Mouvement:** Néo-classicisme
 * **Localisation:** Metropolitan Museum of Art, New York
 
-## II. la vie de Socrates
-  Socrate est l'un des premier philosophe et surment le plus connu.
-  Il était en réaliter professeur philosophie et traverser Athène à poser des questions pour faire réfléchir son interlocuteur.
-  Il était durant toutes ces dicutions entourer de ces élève appelé ici disciple.
-  Socrate était marier, a une femme de fort caractère qui ne comprenait pas la philosophie de son marie.
-  Socrate était sans doute de fort caractère car lors de arrestation, on lui a demander soit d'être comdaner a la peine de mort,
-  soit d'arreter de poser se question philosophique aux athéniens.
-  Socrate a refusé, par un discour, et a été comdané à boire la ciguë, un fort poison.
-  Il a continué de philosophé jusqu'a son lit de mort.
-  Platon est un disciple de Socrate est a retranscrit les paroles de son maître.
+## II. La vie de Socrate
+  Socrate est un penseur, philosophe grec. Il occupe une place décisive dans la philosophie.
+  Bien qu'il n'ait laissé aucun écrit et que nous sachions peu de choses de sa vie,
+  il a eu une influence considérable sur la pensée occidentale.
+  Il était en réalité professeur de philosophie à Athenes, il applique la philosophie à des questions de la vie quotidienne.
+  Il était durant toutes ses discutions philosophiques entouré de ses élèves, de ses disciples.
+  Socrate était marié, à une femme de fort caractère qui ne comprenait pas la philosophie de son mari.
+  Socrate fut accusé de corrompre la jeunesse.
+  Il a prononcé un discours pour se défendre, et a été finalement condamné à boire la ciguë, un fort poison.
+  Platon est un disciple de Socrate qui retranscrit les paroles de son maître.
 
 ## III. Description
-  La scene se passe dans une prison a en jugé par les Soupiraux à barreaux et les chaines.
-  Au centre, il y a un coupe notre regard est porté vers elle grâce aux effets de lumière et parcequ'elle occupe 
-  une position centrale dans l'oeuvre.
-  Ces effets de lumière porte egalement notre regard vers socrate, representer d'un drapé blanc et le bras lever.
-  Puis, il nous porte sur l'esclave qui donne la coupe de ciguë à Socrate.
-  autour de Socrate ses disciples sont abattu par la mort tragique de Socrate.
-  En arrier plan on peux voir la femme de Socrate partir.
-  A gauche du lit sur le quel repause Socrate un homme assi est dos a Socrate. Au pied de cet homme traine un parchemin et un encrier.
-  On peut en déduire que c'est platon le plus célèbre disciple de Socrate, qui à retranscrit les paroles de Socrate.
-
-
+  Au centre du tableau, notre regard est porté vers une coupe,
+  grâce aux effets de lumière et par sa position centrale dans l'oeuvre.
+  Les Soupiraux à barreaux et les chaînes nous indiquent que la scène se déroule dans une prison.
+  Puis notre nos yeux se posent sur l'esclave qui donne la coupe de ciguë à Socrate.
+  Autour de Socrate, ses disciples sont abattus par sa comdamnation tragique.
+  En arrière-plan, on peut voir la femme de Socrate partir, faire ses adieux.
+  À gauche, au pied du lit sur lequel repose Socrate, un homme assis est dos à Socrate. Au pied de cet homme traine un parchemin et un encrier.
+  On peut en déduire que c'est Platon le plus célèbre disciple de Socrate, qui a retranscrit ses paroles.
+  
 ### Eléments importants
   * Socrate est mis en valeur par sa position centrale et par l'éclairage
   * Il s'apprête a boire la coupe de ciguë que lui tend l'esclave
