@@ -4,13 +4,13 @@
 
 
 ## II/ Description de l’affiche
-  -> Trois éléments composent l’affiche la partie gauche de l’affiche :
+  * Trois éléments composent l’affiche la partie gauche de l’affiche :
   Un personnage: Lénine. Celui qui a fait la Révolution de 1917 en Russie. Il apparait sur un fond noir (il est décédé en 1924). Il montre le chemin que doit prendre l’URSS (bras tendu). Staline se considère comme son héritier.
   Un texte: « le pouvoir au Soviet » Soviet: Assemblée du peuple
   Un évènement: La Révolution d’Octobre 1917 menée par les Bolchévik dirigés par Lénine. ! En dessus, on peut identifier des éléments textuels : « 1917-1934 : Plus haut l’étendard de Lénine qui nous donne la victoire ! »
   1917: Date de la Révolution Bolchévik et 1934 date du 17ème congrès. L’idée de Staline est de montrer que son action est dans la continuité de celle Lénine.
   Les slogans de la foule: « Vive l’invincible parti de Lénine. » « Vive le grand guide de la révolution prolétarienne mondiale, le camarade Staline! »
-  -> En haut à droite, on retrouve le drapeau et les emblèmes de l’URSS :
+  * En haut à droite, on retrouve le drapeau et les emblèmes de l’URSS :
 
 
   La couleur rouge symbolise la couleur du parti communiste
