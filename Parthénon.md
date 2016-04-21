@@ -13,19 +13,16 @@
 * **Date:** 447 - 431 avant JC
 * **Maitre d'Oeuvre:** Phidias
 * **Commanditaire:** Péricles
-* **Fonction:** Acceuillir la statue chryséléphantine d'Athéna et accueillir le trésor de la ligue de délos
+* **Fonction:** accueillir la statue chryséléphantine d'Athéna et accueillir le trésor de la ligue de Délos
 
 ## II. Description
 
-Ce temple est contruit en marbre blanc paint a l'origine comme la plus par des temples grec. C'est un temple périptère. Le fronton superieur est un bas relief. Autour du temple il y a une frise c'est la frise des panathénées.
-La frise des panathénées est de 160 mètres de long.
-Elle est composé de 115 plaques de marbres.
-Elle représente la procession de la fête des Panathénées.
-Il y a 360 personnages déssiné.
+Ce temple est construit a l'origine en marbre blanc peint, comme la plupart des temples grecs. C'est un temple périptère. Le fronton supérieur est un bas-relief. Autour du temple, il y a une frise, c'est la frise des panathénées. La frise des panathénées est de 160 mètres de long. Elle est composée de 115 plaques de marbres. Elle représente la procession de la fête des Panathénées. Il y a 360 personnages dessinés.
+
 
 ## III. La beauté mathématique
 
-Le nombre d'or se retrouve de nombreuse fois sur le temple à travers le rectangle d'or.
+Le nombre d'or se retrouve de nombreuses fois sur le temple à travers le rectangle d'or.
 
 Le rectangle d'or renvoie le nombre d'or a travers ses proportions (L/l).
 
@@ -34,12 +31,10 @@ Le nombre d'or est égale à ![](https://upload.wikimedia.org/math/7/0/e/70e860b
 On l'appele également φ (=Phi) en rapport à Phidias.
 C'est la solution de l'ecuation x² = x + 1.
 
-Le temple a plusieur corections obtique:
+Le temple a plusieurs corrections optiques :
 * le sol est convexe
 * les colones sont légèrement incliner
 
 ## IV. Interprétation
 
-Le temple est une oeuvre de propagande en effet Péricles voulait que sous son archontat Athène rayone sur la Grece et qu'elle soit la ville culturelle par exellence. Il dépense de forte somme prise sur l'argent de ligue de Delos.
-La construction du temple va donner du travail au artisans. C'est une manière d'effasser les Perses.
-Le parthenon montre l'hégémonie d'athène sur les autres cités.
+Le temple est une œuvre de propagande en effet Pericles voulait que sous son archontat Athène rayonne sur la Grèce et qu'elle soit la ville culturelle par excellence. Il dépense de forte somme prise sur l'argent de ligue de Délos. La construction du temple va donner du travail aux artisans. C'est une manière d'effacer les Perses. Le Parthénon montre l'hégémonie d'Athène sur les autres cités.
