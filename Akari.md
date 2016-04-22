@@ -3,8 +3,7 @@
 ## Sommaire
 * [I. Présentation générale](I.-Présentation-générale)
 * [II. Description](II. Description)
-* [III. La beauté mathématique](III. La beauté mathématique)
-* [IV. Interprétation](IV. Interprétation)
+* [III. Interprétation](III. Interprétation)
 
 ## I. Présentation générale
 
