@@ -1,4 +1,4 @@
-# Le Parthénon
+# Akari
 
 ## Sommaire
 * [I. Présentation générale](I.-Présentation-générale)
