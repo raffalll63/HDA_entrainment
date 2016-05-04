@@ -36,3 +36,7 @@
   le contrôle de la presse et des moyens de communication. Dans le domaine économique, il entraîne le pays vers une modernisation à marche forcée: Pour convaincre les soviétiques il utilise des affiches de propagande. Ici,
   il se montre le vrai successeur de Lénine.
   il fait croire qu’il reçoit tout le soutien de la population pour ses actions. Sa position et ses vêtements lui donnent un air de capitaine de bateau sûr de lui et du chemin à parcourir (« le timonier »)
+
+## IV Conclusion
+J'ai choisi cette oeuvre car elle nous donne une idée de la campagne de propagande de Staline.
+Et elle fait l'éloge d'un homme d'une politique en tenant compte des contextes économique culturel et géopolitique.
