@@ -43,4 +43,4 @@ Le temple est une œuvre de propagande.En effet, Pericles veut que sous son arch
 Périclès souhaitait remplacer les bâtiments détruits en -480 par les Perses. En construisant de nouveaux monuments, tels que le Parthénon, il travaille à embellir Athènes. Avec le Parthénon, la cité s’enrichit d’un bâtiment architectural remarquable tant par ses proportions que par les fresques qui le décorent. Le Parthénon aura une influence considérable sur l’architecture des autres temples grecs.
 
 ##IV conclusion
-J'ai choisi cette oevre car j'ai pu en faire un aproche moyen traditionnel. Et vous y présenter le nombre d'or
+J'ai choisi cette oeuvre car elle est le symbole de la Grece. c'est à la fois un symbole architecturale et historique Antique (politique et religieuse).
