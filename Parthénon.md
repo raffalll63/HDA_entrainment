@@ -41,3 +41,6 @@ Au Vème siècle, chaque été, les Athéniens se réunissent pour fêter Athén
 Le temple est une œuvre de propagande.En effet, Pericles veut que sous son archontat Athène rayonne sur la Grèce, qu'elle soit la ville culturelle par excellence. Il dépense de forte somme prise sur l'argent de ligue de Délos. La construction du temple va donner du travail aux artisans d'Athène et permettre d'effacer les défaites face aux Perses. Le Parthénon montre l'hégémonie d'Athène sur les autres cités.
 
 Périclès souhaitait remplacer les bâtiments détruits en -480 par les Perses. En construisant de nouveaux monuments, tels que le Parthénon, il travaille à embellir Athènes. Avec le Parthénon, la cité s’enrichit d’un bâtiment architectural remarquable tant par ses proportions que par les fresques qui le décorent. Le Parthénon aura une influence considérable sur l’architecture des autres temples grecs.
+
+##IV conclusion
+J'ai choisi cette oevre car j'ai pu en faire un aproche moyen traditionnel. Et vous y présenter le nombre d'or
