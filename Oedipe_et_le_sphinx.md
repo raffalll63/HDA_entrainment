@@ -23,3 +23,6 @@ On peut voir un homme et la Ville.
 ## III. Interprétation
 Oedipe et le sphinx est un tableau, qui est inspiré d'un mythe:
 Oedipe a été abandonné par ses parents roi et reine de Thèbe et il a été adopté par le roi et la reine de Corinthe. Oedipe, plus grand, va rendre visite l'oracle de Delphe, qui lui annocera qu'il tuera son père et se mariera avec sa mère. Oedipe qui n'est pas au courant qu'il a été adopté quitte Corinthe et se rend a Delphe. Où il réussit à tuer la sphinge en répondant à son énigme. L'attitude de réflexion, soulignée par l’index d’Œdipe, renvoie à la réponse qu’il apporta à l’énigme du monstre. Les lances pointées vers le squelette évoquent sans doute l'homme qu'a tué Oedipe durant son voyage, qui l'amène à la sphinge. Ce mort se révélera être son père. Le drapé rouge, que porte Oedipe et la ville en arrière-plan nous font penser qu'Oedipe y deviendra roi. La ville à l’arrière-plan est Thèbes. Le rouge étant le symbole de la royauté, durant le siècle des lumières. L'homme en arrière-plan représente une allégorie de la peur.
+
+# IV. Conclusion
+J'ai choisi cette oevre car Oedipe et le sphinx est un tableau inspirer d'un mithe intéressant qui fait réfléchir sur des questions de la vie courante.
