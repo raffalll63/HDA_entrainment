@@ -28,5 +28,5 @@ Les lampes Akari peuvent être peintes
 Avec la chaude lueur projetée à travers le papier sur un cadre en bambou, Isamu Noguchi utilisé des matériaux traditionnels japonais pour apporter un design moderne à la maison, comme la beauté de la chute des feuilles et la fleur de cerisier. Les lampes Akari sont "poétiques, éphémères et provisoires." Et il se plaisait à dire, « Tout ce que vous avez besoin pour démarrer une maison est une salle, un tatami et Akari."
 Noguchi employé des formes abstraites pour unir la simplicité de l'esthétique japonaise avec les principes de l'art contemporain et le design. Plus que de l'ameublement, les Akari sont des sculptures lumineuses.
 
-IV Conclusion
-J'ai choisi cette oevre car elle s'ouvre sur un autre type d'art moin connue qui est l'art du quotidien.
+##IV Conclusion
+J'ai choisi cette oeuvre car elle s'ouvre sur un autre type d'art moins connu, l'art du quotidien.
