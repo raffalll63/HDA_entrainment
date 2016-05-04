@@ -39,10 +39,6 @@
   À gauche, au pied du lit sur lequel repose Socrate, un homme assis est dos à Socrate. Au pied de cet homme traine un parchemin et un encrier.
   On peut en déduire que c'est Platon le plus célèbre disciple de Socrate, qui a retranscrit ses paroles.
   
-### Eléments importants
-  * Socrate est mis en valeur par sa position centrale et par l'éclairage
-  * Il s'apprête a boire la coupe de ciguë que lui tend l'esclave
-
 ## IV. Interprétation
   L'esclave qui donne la coupe à Socrate est honteux, il ne veut pas voir ce qu'il est en train de faire.
   Socrate a le bras levé, c'est une forme d'insolence envers les Athéniens pour montrer que même après sa condamnation
@@ -51,3 +47,6 @@
   Son vieil âge n'est pas représenté comme un défaut, mais comme un qualité, il montre sa sagesse.
   Platon est représenté de dos, car il était absent lors de l'événement, il était trop affligé par cette tragédie.
   Le blanc symbolise la pureté : il n’est donc pas étonnant que ce soit la couleur du vêtement de Socrate.
+
+## V. Conclusion
+  J'ai choisi cette oeuvre car Socrate est un philosophe qui a eu le courage de mourrir pour ses idées. 
